@@ -7,8 +7,8 @@ RedMica is a derived software of Redmine, an excellent project management softwa
 ![](redmica-logo-small.png)
 
 * Square: [EPS](redmica-logo.eps), [PNG large](redmica-logo-large.png), [PNG small](redmica-logo-small.png)
-* Horizontal: [EPS](redmica-logo-horizontal.eps), [PNG large](redmica-logo-horizontal-large.png), [PNG small](redmica-logo-horizontal-small.png)
-* Inverted: [EPS](redmica-logo-inverted.eps), [PNG large](redmica-logo-inverted-large.png), [PNG small](redmica-logo-inverted-small.png)
+* Horizontal: [EPS](horizontal/redmica-logo-horizontal.eps), [PNG large](horizontal/redmica-logo-horizontal-large.png), [PNG small](horizontal/redmica-logo-horizontal-small.png)
+* Inverted: [EPS](inverted/redmica-logo-inverted.eps), [PNG large](inverted/redmica-logo-inverted-large.png), [PNG small](inverted/redmica-logo-inverted-small.png)
 
 ## Colors
 
