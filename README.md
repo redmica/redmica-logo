@@ -4,11 +4,25 @@ These are logos of [RedMica](https://github.com/redmica/redmica).
 
 RedMica is a derived software of Redmine, an excellent project management software. See <https://github.com/redmica/redmica> for more details.
 
+## Logo variations
+
+### Square
+
 ![](redmica-logo-small.png)
 
-* Square: [EPS](redmica-logo.eps), [PNG large](redmica-logo-large.png), [PNG small](redmica-logo-small.png)
-* Horizontal: [EPS](horizontal/redmica-logo-horizontal.eps), [PNG large](horizontal/redmica-logo-horizontal-large.png), [PNG small](horizontal/redmica-logo-horizontal-small.png)
-* Inverted: [EPS](inverted/redmica-logo-inverted.eps), [PNG large](inverted/redmica-logo-inverted-large.png), [PNG small](inverted/redmica-logo-inverted-small.png)
+Available formats: [EPS](redmica-logo.eps) | [PNG large (2000px)](redmica-logo-large.png) | [PNG small (500px)](redmica-logo-small.png)
+
+### Horizontal
+
+![](horizontal/redmica-logo-horizontal-small.png)
+
+Available formats: [EPS](horizontal/redmica-logo-horizontal.eps) | [PNG large (2000px)](horizontal/redmica-logo-horizontal-large.png) | [PNG small (500px)](horizontal/redmica-logo-horizontal-small.png)
+
+### Inverted
+
+![](inverted/redmica-logo-inverted-small.png)
+
+Available formats: [EPS](inverted/redmica-logo-inverted.eps) | [PNG large (2000px)](inverted/redmica-logo-inverted-large.png) | [PNG small (500px)](inverted/redmica-logo-inverted-small.png)
 
 ## Colors
 
@@ -21,7 +35,7 @@ The font used in the logo is [Abel](https://fonts.google.com/specimen/Abel).
 
 ## Conditions of use
 
-This logo may be used for the following purposes. Any other use is subject to prior approval.
+RedMica logos may be used for the following purposes. Any other use is subject to prior approval.
 
 * To promote RedMica, RedMica based products or services, or related communities
 * To mention RedMica in blog posts, news articles, or publications
