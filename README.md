@@ -10,19 +10,19 @@ RedMica is a derived software of Redmine, an excellent project management softwa
 
 ![](redmica-logo-small.png)
 
-Available formats: [EPS](redmica-logo.eps) | [PNG large (2000px)](redmica-logo-large.png) | [PNG small (500px)](redmica-logo-small.png)
+Available formats: [EPS](redmica-logo.eps) | [SVG](redmica-logo.svg) | [PNG large (2000px)](redmica-logo-large.png) | [PNG small (500px)](redmica-logo-small.png)
 
 ### Horizontal
 
 ![](horizontal/redmica-logo-horizontal-small.png)
 
-Available formats: [EPS](horizontal/redmica-logo-horizontal.eps) | [PNG large (2000px)](horizontal/redmica-logo-horizontal-large.png) | [PNG small (500px)](horizontal/redmica-logo-horizontal-small.png)
+Available formats: [EPS](horizontal/redmica-logo-horizontal.eps) | [SVG](horizontal/redmica-logo-horizontal.svg) |[PNG large (2000px)](horizontal/redmica-logo-horizontal-large.png) | [PNG small (500px)](horizontal/redmica-logo-horizontal-small.png)
 
 ### Inverted
 
 ![](inverted/redmica-logo-inverted-small.png)
 
-Available formats: [EPS](inverted/redmica-logo-inverted.eps) | [PNG large (2000px)](inverted/redmica-logo-inverted-large.png) | [PNG small (500px)](inverted/redmica-logo-inverted-small.png)
+Available formats: [EPS](inverted/redmica-logo-inverted.eps) | [SVG](inverted/redmica-logo-inverted.svg) |[PNG large (2000px)](inverted/redmica-logo-inverted-large.png) | [PNG small (500px)](inverted/redmica-logo-inverted-small.png)
 
 ## Colors
 
